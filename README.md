@@ -7,6 +7,8 @@
 
 **CryptoPlace** is a high-performance, real-time financial cryptocurrency tracking web application built using **React.js (Vite)** and context-driven state management. It monitors **250+ digital assets** by consuming the **CoinGecko REST API**, providing live price metrics, 24-hour fluctuations, market capitalization rankings, and interactive multi-day historical charts.
 
+**Live Demo-** https://cryptoplace-using-react.vercel.app/
+
 ---
 
 ## ✨ Key Features & Highlights
